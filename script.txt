@@ -1,0 +1,6 @@
+# Lines starting with # are ignored.
+Most people think faster hardware makes software faster.
+It usually doesn't.
+The bottleneck is almost never the CPU. It's waiting.
+Waiting on disk, waiting on network, waiting on a lock.
+Fix the waiting, and the hardware stops mattering.

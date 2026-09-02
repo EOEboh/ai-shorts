@@ -1,0 +1,8 @@
+work/
+out/
+.venv/
+__pycache__/
+*.pyc
+clips/*.mp4
+music/*
+!music/.gitkeep

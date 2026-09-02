@@ -1,0 +1,19 @@
+voice: en-GB-RyanNeural   # or en-US-BrianNeural
+rate: "+0%"
+resolution: "1080x1920"
+fps: 30
+
+captions:
+  font: "Inter"
+  size: 90                # px at the configured resolution
+  style: word-by-word     # word-by-word | plain
+  position: center        # center | lower-third | top
+  timing: wordboundary    # wordboundary | whisper
+  group_size: 3           # words on screen at once
+  color: "#FFFFFF"
+  highlight: "#FFE500"
+  outline: 6
+
+music:
+  enabled: false
+  volume: 0.08            # ducked under voice
